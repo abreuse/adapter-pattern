@@ -1,11 +1,11 @@
 ## Adapter pattern
 
-Simple examples of the Adapter patterns.
+Simple example of the Adapter pattern.
 - NewCalculator interface adapted to the OldCalculator interface
 
 Un exemple que l'on retrouve souvent est un adapteur entre `Enumeration` et `Iterator`. 
 
-A ne pas confondre avec le pattern [Decorator](https://github.com/abreuse/decorator-pattern), qui lui, est un wrapper qui ajoute des comportements à une classe.
+À ne pas confondre avec le pattern [Decorator](https://github.com/abreuse/decorator-pattern), qui lui, est un wrapper qui ajoute des comportements à une classe.
 
 **Les plus :**
 - Permet de convertir une interface qui semblait incompatible
